@@ -1,4 +1,4 @@
-<img src=https://github.com/lujanferraro/VinoBlanco-EDA/blob/master/portada.jpg alt="portada></img>
+<img src=https://github.com/lujanferraro/VinoBlanco-EDA/blob/master/portada.jpg alt="portada/>
                                                                                      
                                                                                      
  Proyecto final para aprobar curso de Big Data, se debia presentar a los datos analizados, buscar que variables se encontraban correlacionadas y apartir de hace un modelo predictivo de regresion básico.  
